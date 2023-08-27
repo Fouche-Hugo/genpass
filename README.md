@@ -13,7 +13,7 @@ La commande genpass prend plusieurs paramètres non obligatoires en compte :
 - **--without-lowercase** : avec des lettres minuscules ou sans, valeurs possibles : true | false, false par défaut
 - **--strong** : force le mot de passe à être considéré comme fort : 8 caractères minimum, au moins une majuscule, au moins une minuscule, au moins un symbole et au moins un chiffre
 
-Par défaut, lorsque ces paramètres sont sélectionnées sans écriture explicite de "true" ou "false", la valeur true est sélectionnée (sauf pour size où une erreur est renvoyée).
+Par défaut, lorsque ces paramètres sont sélectionnés sans écriture explicite de "true" ou "false", la valeur true est sélectionnée (sauf pour size où une erreur est renvoyée).
 
 # Exemples
 Avec la configuration par défaut :
